@@ -1,1 +1,2 @@
-This is the answer to "What is XYZ?".
+什么是软件架构
+
